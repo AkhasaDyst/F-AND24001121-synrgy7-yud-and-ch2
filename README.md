@@ -17,5 +17,5 @@ Name | Demo
 --- | ---
 Day Theme  | <img src="/screenshot/daytheme.jpg" width="50%">
 Night Theme  | <img src="/screenshot/darkthemein.jpg" width="50%">
-English Lang  | <img src="/screenshot/darjthemeen.jpg" width="50%">
+English Lang  | <img src="/screenshot/darkthemeen.jpg" width="50%">
 Edit Text, View and View Group, Images, Layouting, Localization, Styling| <img src="/screenshot/cardedittext.jpg" width="50%">
